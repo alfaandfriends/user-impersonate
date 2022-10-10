@@ -64,4 +64,15 @@ trait Impersonate
             return app(ImpersonateManager::class)->leave();
         }
     }
+
+    /**
+     * Get the impersonator ID.
+     *
+     * @param void
+     * @return  bool
+     */
+    public function getImpersonatorID()
+    {
+        return app(ImpersonateManager::class)->getImpersonatorId();
+    }
 }
