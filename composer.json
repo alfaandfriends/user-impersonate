@@ -1,5 +1,5 @@
 {
-  "name": "lab404/laravel-impersonate",
+  "name": "alfaandfriends/user-impersonate",
   "description": "Laravel Impersonate is a plugin that allows to you to authenticate as your users.",
   "type": "library",
   "keywords": [
@@ -26,8 +26,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Marceau Casals",
-      "email": "marceau@casals.fr"
+      "name": "ALFA and Friends",
+      "email": "admin@alfaandfriends.com"
     }
   ],
   "autoload": {
